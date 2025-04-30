@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779888003577",
+    "project_id": "smartfabtracker",
+    "storage_bucket": "smartfabtracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779888003577:android:747479cb8063d2c2355528",
+        "android_client_info": {
+          "package_name": "com.smartfab.materialtracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjQxBtDoPauoH9hTePv4UeOGTYsnSIQYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
